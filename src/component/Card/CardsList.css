@@ -1,0 +1,26 @@
+.itemImage {
+    height: 200px;
+    width: 150px;
+
+
+}
+
+.CardsBox {
+    border: 1px solid orange;
+    border-radius: 19px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+.CardsBox .paisa {
+    color: brown;
+    font-weight: 800;
+}
+
+.itemTitle {
+    color: rgb(52, 22, 22);
+}

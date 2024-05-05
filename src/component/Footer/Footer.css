@@ -1,0 +1,48 @@
+.containerNav {
+    display: flex;
+    margin-top: 100px;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 300px;
+}
+
+
+.center {
+    height: 100px;
+    width: 200px;
+}
+
+.centerItems {
+    padding-left: 0px;
+}
+
+
+.right {
+    border: 2px solid orange;
+    background-color: orange;
+    border-radius: 10px;
+    color: black;
+    width: 300px;
+}
+
+.righth3 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.left {
+    background-image: url(../../pics/social-icons.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.navLi {
+    text-align: center;
+    cursor: pointer;
+}
